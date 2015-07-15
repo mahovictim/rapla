@@ -1,0 +1,5 @@
+  * [Resource-, Person- and Eventtypes](DynamicTypes.md)
+  * [Categories](Categories.md)
+  * [PeriodSupport](PeriodSupport.md)
+  * [Permissions and groups](Permissions.md)
+  * [Changing resource- and event colors](ChangingResourceColors.md)
